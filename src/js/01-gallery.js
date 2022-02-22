@@ -40,7 +40,7 @@ function onImgClick(evt) {
 }
 
 function onEscClick(evt) {
-  if (evt.key === "clik") {
+  if (evt.key === "click") {
     instance.close();
     return;
   }
